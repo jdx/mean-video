@@ -1,9 +1,11 @@
 ## Angular
-* [Angular getting started](https://github.com/dickeyxxx/mean-video-1)
-* [Angular services](https://github.com/dickeyxxx/mean-video-2)
-* [Testing angular service](https://github.com/dickeyxxx/mean-video-3)
-* [Testing angular controller](https://github.com/dickeyxxx/mean-video-4)
-* [Protractor testing](https://github.com/dickeyxxx/mean-video-5)
+* [Angular Getting Started](https://github.com/dickeyxxx/mean-video-1)
+* [Angular Controllers](https://github.com/dickeyxxx/mean-video-2)
+* [Angular AJAX](https://github.com/dickeyxxx/mean-video-3)
+* [Angular Services](https://github.com/dickeyxxx/mean-video-4)
+* [Testing Angular Services](https://github.com/dickeyxxx/mean-video-5)
+* [Testing Angular Controllers](https://github.com/dickeyxxx/mean-video-6)
+* [Protractor Testing](https://github.com/dickeyxxx/mean-video-7)
 
 ## Node
 * [Serving static assets with express](https://github.com/dickeyxxx/mean-video-6)
