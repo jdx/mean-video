@@ -5,10 +5,10 @@
 * [Angular Services](https://github.com/dickeyxxx/mean-video-4)
 * [Testing Angular Services](https://github.com/dickeyxxx/mean-video-5)
 * [Testing Angular Controllers](https://github.com/dickeyxxx/mean-video-6)
-* [Protractor Testing](https://github.com/dickeyxxx/mean-video-7)
 
 ## Node
 * [Serving static assets with express](https://github.com/dickeyxxx/mean-video-6)
+* [Protractor Testing](https://github.com/dickeyxxx/mean-video-7)
 * [Bower](https://github.com/dickeyxxx/mean-video-7)
 * [Websockets](https://github.com/dickeyxxx/mean-video-8)
 * [Reading/writing to MongoDB](https://github.com/dickeyxxx/mean-video-9)
